@@ -234,7 +234,6 @@ body {
 }
 
 .tea-card:hover {
-    background-color: #712b2b; 
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
@@ -307,6 +306,12 @@ body {
     font-size: 40px;
     margin-left: 40px;
     color: #4f4f4f;
-    background: #fffdf4;
     font-family: 'Lucida Grande';
+}
+
+.cup-img {
+    width: 150px;
+    height: 150px;
+    float: left;
+    padding: 5px;
 }
